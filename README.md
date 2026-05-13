@@ -1,2 +1,2 @@
-# .github
-Formosanbank organization profile
+# FormosanBank Org Profile
+'/profile/README.MD' Appears on the public GitHub
